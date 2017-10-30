@@ -5,14 +5,14 @@ John and a friend invented a simple game where the player with
 the highest value of his height (in centimeters) plus five times
 his age wins.
 
-1. Create variables for the heights and ages of two friends and assign 
+1. Create variables for the heights and ages of two friends and assign
 them some values
 2. Calculate their scores
 3. Decide who wins and print the winner to the console. Include the score
-in the string that you output to the console. Don't forget that  there 
+in the string that you output to the console. Don't forget that  there
 can be a draw (both players with the same score).
 
-4. EXTRA: Add a third player and now decide who wins. Hint: you will 
+4. EXTRA: Add a third player and now decide who wins. Hint: you will
 need the && operator to take the decision.
 
 # Javascript Second Challenge
@@ -32,6 +32,4 @@ Example output: [true, false, true]
 
 Hint: you can use a loop not only to read from an array, like y[i], but also to set values in an array, like y[i] = ... You can also use the specific array methods.
 
-
-
-
+Thank you
